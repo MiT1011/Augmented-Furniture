@@ -21,12 +21,15 @@ An interactive Augmented Reality (AR) application designed to place 3D furniture
 
 [Demo Video and Application are here](Build)
 
-
-Mobile Application Snapshot 1
-<img src="./snapshots/Screenshot2.png" alt="Snapshot2" width="291" height="456">
-
-Mobile Application Snapshot 2
-<img src="./snapshots/Screenshot3.png" alt="Snapshot3" width="291" height="456">
-
-Mobile Application Snapshot 3
-<img src="./snapshots/Screenshot1.png" alt="Snapshot1" width="291" height="456">
+<table>
+  <tr>
+    <td>Snapshot 1</td>
+    <td>Snapshot 2</td>
+    <td>Snapshot 3</td>
+  </tr>
+  <tr>
+    <td><img src="./snapshots/Screenshot2.png" alt="Snapshot2" width="291" height="456"></td>
+    <td><img src="./snapshots/Screenshot3.png" alt="Snapshot3" width="291" height="456"></td>
+    <td><img src="./snapshots/Screenshot1.png" alt="Snapshot1" width="291" height="456"></td>
+  </tr>
+</table>
