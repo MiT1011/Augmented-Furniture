@@ -19,4 +19,4 @@ An interactive Augmented Reality (AR) application designed to place 3D furniture
   <li>Resources: Open-source 3D furniture models</li>
 </ul>
 
-<h2>[**Demo Video and Application are here**](Build)</h2>
+[Demo Video and Application are here](Build)**
