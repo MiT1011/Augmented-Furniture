@@ -11,7 +11,7 @@ An interactive Augmented Reality (AR) application designed to place 3D furniture
   <li>Game Mechanics: Built with Unity Engine and C# scripting, leveraging robust AR capabilities.</li>
 </ul>
 
-<h3> Features </h3>
+<h3> Tech Stack </h3>
 <ul>
   <li>Engine: Unity Game Engine</li>
   <li>Programming Language: C#</li>
@@ -19,4 +19,4 @@ An interactive Augmented Reality (AR) application designed to place 3D furniture
   <li>Resources: Open-source 3D furniture models</li>
 </ul>
 
-[Demo Video and Application are here](Build)**
+[Demo Video and Application are here](Build)
