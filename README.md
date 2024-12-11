@@ -23,11 +23,11 @@ An interactive Augmented Reality (AR) application designed to place 3D furniture
 
 <h3>Snapshots of Furniture Placement Mobile Application</h3>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <tr>
-    <td style="text-align: center;">Snapshot 1</td>
-    <td style="text-align: center;">Snapshot 2</td>
-    <td style="text-align: center;">Snapshot 3</td>
+    <td>Snapshot 1</td>
+    <td>Snapshot 2</td>
+    <td>Snapshot 3</td>
   </tr>
   <tr>
     <td><img src="./snapshots/Screenshot2.png" alt="Snapshot2" width="291" height="456"></td>
