@@ -23,6 +23,8 @@ An interactive Augmented Reality (AR) application designed to place 3D furniture
 
 
 Mobile Application Snapshot 1
+<img src="./snapshots/Screenshot2.png" alt="Snapshot1" width="582" height="912">
+
 ![Snapshot 1 with Movie Input](./snapshots/Screenshot2.png "Snapshot2")
 
 Mobile Application Snapshot 2
